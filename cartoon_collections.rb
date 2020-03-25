@@ -14,7 +14,7 @@ def find_the_cheese(food_list)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
   if food_list.include?(cheese_types)
-    puts "There is cheese present"
+    
   else
     puts "No cheese is present"
   end
