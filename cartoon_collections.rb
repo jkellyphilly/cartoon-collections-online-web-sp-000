@@ -18,4 +18,5 @@ def find_the_cheese(food_list)
       return cheese_type
     end
   end
+  nil
 end
