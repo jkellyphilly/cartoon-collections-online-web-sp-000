@@ -17,4 +17,5 @@ def find_the_cheese(food_list)
     puts "There is cheese present"
   else
     puts "No cheese is present"
+  end
 end
