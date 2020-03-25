@@ -16,6 +16,6 @@ def find_the_cheese(food_list)
   if food_list.include?(cheese_types)
     
   else
-    puts "No cheese is present"
+    nil
   end
 end
